@@ -3,5 +3,8 @@
   "item.polymod.raw_bismuth": "Raw Bismuth",
 
   "block.polymod.bismuth_block": "Block of Bismuth",
-  "block.polymod.bismuth_ore": "Bismuth Ore"
+  "block.polymod.bismuth_ore": "Bismuth Ore",
+
+  "creativetab.polymod.bismuth_items": "Bismuth Items",
+  "creativetab.polymod.bismuth_blocks": "Bismuth Blocks"
 }
