@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "polymod:bismuth_block",
+    "polymod:bismuth_ore",
+    "polymod:bismuth_deepslate_ore"
+  ]
+}

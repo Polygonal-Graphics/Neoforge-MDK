@@ -22,7 +22,7 @@ public class ModCreativeModeTabs
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.BISMUTH);
                         output.accept(ModItems.RAW_BISMUTH);
-
+                        output.accept(ModItems.CHISEL);
                     }).build());
 
     public static final Supplier<CreativeModeTab> BISMUTH_BLOCKS_TAB = CREATIVE_MODE_TAB.register("bismuth_blocks_tab",
@@ -31,6 +31,7 @@ public class ModCreativeModeTabs
                     .title(Component.translatable("creativetab.polymod.bismuth_blocks"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModBlocks.BISMUTH_ORE);
+                        output.accept(ModBlocks.BISMUTH_DEEPSLATE_ORE);
                         output.accept(ModBlocks.BISMUTH_BLOCK);
                     }).build());
 

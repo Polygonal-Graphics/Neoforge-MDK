@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "":
+    {
+      "model": "polymod:block/bismuth_deepslate_ore"
+    }
+  }
+}
